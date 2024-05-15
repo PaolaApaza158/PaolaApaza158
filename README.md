@@ -1,4 +1,6 @@
-### Hi there 👋
+### ¡¡¡ Hola !!! :) 🐈✨
+- 🌱 I dream of being full stack
+- 🌿 I’m looking for help with Nextjs 🌈 and Nestjs ⚡
 
 <!--
 **PaolaApaza158/PaolaApaza158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
