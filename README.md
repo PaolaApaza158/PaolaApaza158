@@ -2,7 +2,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername/yourrepository)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![NextUI](https://img.shields.io/badge/NextUI-000000?style=flat&logo=next.js&logoColor=white&labelColor=blue&color=blueviolet)](https://nextui.org/)
+[![NextUI](https://img.shields.io/badge/NextUI-000000?style=flat&logo=next.js&logoColor=white&labelColor=red&color=orange&labelColor=yellow&color=green&labelColor=blue&color=purple)](https://nextui.org/)
+
 
 
 
