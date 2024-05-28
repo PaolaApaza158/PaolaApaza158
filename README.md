@@ -3,7 +3,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername/yourrepository)
-[![NextUI](https://img.shields.io/badge/NextUI-000000?style=flat&logo=next.js&logoColor=white&labelColor=red&color=orange&labelColor=yellow&color=green&labelColor=blue&color=purple)](https://nextui.org/)
+[![NextUI](https://img.shields.io/badge/NextUI-D4BFFF?style=flat&logo=nextui&logoColor=white)](https://nextui.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![TypeORM](https://img.shields.io/badge/TypeORM-FF5A00?style=flat&logo=typeorm&logoColor=white)](https://typeorm.io/)
