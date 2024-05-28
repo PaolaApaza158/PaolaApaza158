@@ -4,7 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername/yourrepository)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![NextUI](https://img.shields.io/badge/NextUI-000000?style=flat&logo=next.js&logoColor=white&labelColor=red&color=orange&labelColor=yellow&color=green&labelColor=blue&color=purple)](https://nextui.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![TypeORM](https://img.shields.io/badge/TypeORM-FF5A00?style=flat&logo=typeorm&logoColor=white)](https://typeorm.io/)
