@@ -37,7 +37,9 @@
 </div>
 
 
-[Escucha mi música favorita en Spotify](https://open.spotify.com/playlist/5A2rBwROAZMlP7oESl9759?si=878af3390c2b4e99&utm_source=oembed)
+## Mi música en Spotify
+
+![Spotify Now Playing](https://spotify-now-playing.vercel.app/api/now-playing?open=true)
 
 
 <!--
