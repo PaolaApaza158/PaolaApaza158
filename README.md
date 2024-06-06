@@ -37,12 +37,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PaolaApaza158/PaolaApaza158/output/snake.svg" alt="Snake animation" />
-
-###
  
 
 <!--
