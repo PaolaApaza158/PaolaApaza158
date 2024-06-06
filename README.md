@@ -37,9 +37,6 @@
 </div>
 
 
-## Mi música en Spotify
-
-![Spotify Now Playing](https://spotify-now-playing.vercel.app/api/now-playing?open=true)
 
 
 <!--
