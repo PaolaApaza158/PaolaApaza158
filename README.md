@@ -37,23 +37,8 @@
 </div>
 
 
-{
-  "html": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Música boliviana\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/playlist/5A2rBwROAZMlP7oESl9759?si=878af3390c2b4e99&utm_source=oembed\"></iframe>",
-  "iframe_url": "https://open.spotify.com/embed/playlist/5A2rBwROAZMlP7oESl9759?si=878af3390c2b4e99&utm_source=oembed",
-  "width": 456,
-  "height": 352,
-  "version": "1.0",
-  "provider_name": "Spotify",
-  "provider_url": "https://spotify.com",
-  "type": "rich",
-  "title": "Música boliviana",
-  "thumbnail_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84865e8732cf359bb85c7b9016",
-  "thumbnail_width": 300,
-  "thumbnail_height": 300
-}
+<iframe style="border-radius: 12px" width="100%" height="352" title="Spotify Embed: Música boliviana" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/playlist/5A2rBwROAZMlP7oESl9759?si=878af3390c2b4e99&utm_source=oembed"></iframe>
 
-###
- 
 
 <!--
 **PaolaApaza158/PaolaApaza158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
