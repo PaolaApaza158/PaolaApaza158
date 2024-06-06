@@ -37,7 +37,7 @@
 </div>
 
 
-<iframe style="border-radius: 12px" width="100%" height="352" title="Spotify Embed: Música boliviana" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/playlist/5A2rBwROAZMlP7oESl9759?si=878af3390c2b4e99&utm_source=oembed"></iframe>
+[Escucha mi música favorita en Spotify](https://open.spotify.com/playlist/5A2rBwROAZMlP7oESl9759?si=878af3390c2b4e99&utm_source=oembed)
 
 
 <!--
