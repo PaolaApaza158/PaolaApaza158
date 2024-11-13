@@ -9,7 +9,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PaolaApaza158&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<div  align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaolaApaza158&show_icons=true&theme=tokyonight)
+</div>
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaolaApaza158&show_icons=true&theme=dracula)
 -->
